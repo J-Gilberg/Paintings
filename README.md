@@ -1,1 +1,2 @@
 # Paintings
+Coding Dojo Exam
