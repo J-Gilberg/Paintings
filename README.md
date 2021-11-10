@@ -1,2 +1,2 @@
 # Paintings
-Coding Dojo Exam
+Python Coding Dojo Exam
